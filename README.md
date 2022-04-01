@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hex0x0
 - 👀 I’m interested in Data Science, Web Development and Artificial Intelligence
-- 🌱 I’m currently learning Python, Javascript & NodeJs, HTML5 & CSS
+- 🌱 I’m currently learning Python, Javascript & NodeJs and HTML5 & CSS
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me nvm
 
